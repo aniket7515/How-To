@@ -6,3 +6,5 @@ Special repository which will contains small projects or parts of website which 
 -Hover DropDown
 </br>
 -Modal Images
+</br.
+-Vertical Tabs
