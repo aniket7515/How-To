@@ -8,3 +8,5 @@ Special repository which will contains small projects or parts of website which 
 -Modal Images
 </br>
 -Vertical Tabs
+</br>
+-TypeWriter
