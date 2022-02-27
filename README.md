@@ -12,3 +12,5 @@ Special repository which will contains small projects or parts of website which 
 -TypeWriter
 </br>
 -Search Menue
+</br>
+-SlideShow
