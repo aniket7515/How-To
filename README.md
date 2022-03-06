@@ -16,3 +16,5 @@ Special repository which will contains small projects or parts of website which 
 -SlideShow
 </br>
 -FLipBox
+</br>
+-Tabs
