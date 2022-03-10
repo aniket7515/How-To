@@ -24,3 +24,5 @@ Special repository which will contains small projects or parts of website which 
 -PopUp form
 </br>
 -Filter Table
+</br>
+-Password Validation
