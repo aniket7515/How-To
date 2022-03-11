@@ -26,3 +26,5 @@ Special repository which will contains small projects or parts of website which 
 -Filter Table
 </br>
 -Password Validation
+</br>
+-Modal LoginForm
